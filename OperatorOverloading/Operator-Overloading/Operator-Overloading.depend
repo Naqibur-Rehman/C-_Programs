@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590691333 source:c:\users\naqib\onedrive\documents\c++ program\operator-overloading\main.cpp
+	<iostream>
+	"Mystring.h"
+
+1590690573 c:\users\naqib\onedrive\documents\c++ program\operator-overloading\include\mystring.h
+
+1590690573 source:c:\users\naqib\onedrive\documents\c++ program\operator-overloading\src\mystring.cpp
+	<iostream>
+	<cstring>
+	"Mystring.h"
+

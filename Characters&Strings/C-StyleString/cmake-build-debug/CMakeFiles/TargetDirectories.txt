@@ -1,0 +1,3 @@
+C:/Users/naqib/OneDrive/Documents/C++ Program/C-StyleString/cmake-build-debug/CMakeFiles/C_StyleString.dir
+C:/Users/naqib/OneDrive/Documents/C++ Program/C-StyleString/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/naqib/OneDrive/Documents/C++ Program/C-StyleString/cmake-build-debug/CMakeFiles/rebuild_cache.dir

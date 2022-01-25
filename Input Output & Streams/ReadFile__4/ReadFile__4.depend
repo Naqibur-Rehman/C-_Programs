@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591297252 source:c:\users\naqib\onedrive\documents\c++ program\input output & streams\readfile__4\main.cpp
+	<iostream>
+	<fstream>
+

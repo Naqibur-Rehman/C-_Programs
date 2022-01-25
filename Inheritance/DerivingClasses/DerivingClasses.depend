@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1590755811 source:c:\users\naqib\onedrive\documents\c++ program\derivingclasses\main.cpp
+	<iostream>
+	"Account.h"
+	"Savings_Account.h"
+
+1590756396 c:\users\naqib\onedrive\documents\c++ program\derivingclasses\include\account.h
+	<string>
+
+1590756396 c:\users\naqib\onedrive\documents\c++ program\derivingclasses\include\savings_account.h
+	"Account.h"
+
+1590756396 source:c:\users\naqib\onedrive\documents\c++ program\derivingclasses\src\account.cpp
+	"Account.h"
+	<iostream>
+
+1590756396 source:c:\users\naqib\onedrive\documents\c++ program\derivingclasses\src\savings_account.cpp
+	<iostream>
+	"Savings_Account.h"
+

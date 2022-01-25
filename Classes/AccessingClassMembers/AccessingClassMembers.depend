@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590406362 source:c:\users\naqib\onedrive\documents\c++ program\accessingclassmembers\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

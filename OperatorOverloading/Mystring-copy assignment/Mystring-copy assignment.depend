@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590599407 source:c:\users\naqib\onedrive\documents\c++ program\mystring-copy assignment\main.cpp
+	<iostream>
+	"Mystring.h"
+
+1590599162 c:\users\naqib\onedrive\documents\c++ program\mystring-copy assignment\include\mystring.h
+
+1590599437 source:c:\users\naqib\onedrive\documents\c++ program\mystring-copy assignment\src\mystring.cpp
+	<iostream>
+	<cstring>
+	"Mystring.h"
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1591098936 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\src\account.cpp
+	"Account.h"
+
+1591098936 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\include\account.h
+	<iostream>
+	<string>
+	"I_Printable.h"
+
+1591098936 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\include\i_printable.h
+	<iostream>
+
+1591098936 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\src\account_util.cpp
+	<iostream>
+	"Account_Util.h"
+
+1591098936 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\include\account_util.h
+	<vector>
+	"Account.h"
+
+1591098936 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\src\checking_account.cpp
+	"Checking_Account.h"
+
+1591098936 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\include\checking_account.h
+	"Account.h"
+
+1591098936 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\src\i_printable.cpp
+	"I_Printable.h"
+
+1591098936 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\src\savings_account.cpp
+	"Savings_Account.h"
+
+1591098936 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\include\savings_account.h
+	"Account.h"
+
+1591098936 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\src\trust_account.cpp
+	"Trust_Account.h"
+
+1591098936 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\shared-pointers\include\trust_account.h
+	"Savings_Account.h"
+

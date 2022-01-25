@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1590580789 source:c:\users\naqib\onedrive\documents\c++ program\workingclass\main.cpp
+	<iostream>
+	"Movies.h"
+
+1590580628 source:c:\users\naqib\onedrive\documents\c++ program\workingclass\src\movies.cpp
+	<iostream>
+	"Movies.h"
+
+1590580410 c:\users\naqib\onedrive\documents\c++ program\workingclass\include\movies.h
+	<vector>
+	<string>
+	"Movie.h"
+
+1590579182 source:c:\users\naqib\onedrive\documents\c++ program\workingclass\src\movie.cpp
+	<iostream>
+	"Movie.h"
+
+1590580483 c:\users\naqib\onedrive\documents\c++ program\workingclass\include\movie.h
+	<string>
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/naqib/OneDrive/Documents/C++ Program/C-StyleString/main.cpp
+iostream
+-
+cstring
+-
+cctype
+-
+

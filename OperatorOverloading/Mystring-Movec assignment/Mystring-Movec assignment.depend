@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590604744 source:c:\users\naqib\onedrive\documents\c++ program\mystring-movec assignment\main.cpp
+	<iostream>
+	<vector>
+	"Mystring.h"
+
+1590604744 c:\users\naqib\onedrive\documents\c++ program\mystring-movec assignment\include\mystring.h
+
+1590605272 source:c:\users\naqib\onedrive\documents\c++ program\mystring-movec assignment\src\mystring.cpp
+	<iostream>
+	<cstring>
+	"Mystring.h"
+

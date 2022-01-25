@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1591004204 source:c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\main.cpp
+	<iostream>
+	<vector>
+	"Savings_Account.h"
+	"Checking_Account.h"
+	"Account_Util.h"
+	"I_Printable.h"
+
+1591005201 c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\include\account_util.h
+	<vector>
+	"Account.h"
+
+1591003956 c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\include\account.h
+	<iostream>
+	<string>
+	"I_Printable.h"
+
+1591004303 c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\include\savings_account.h
+	"Account.h"
+
+1591004304 c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\include\checking_account.h
+	"Account.h"
+
+1591004303 c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\include\trust_account.h
+	"Savings_Account.h"
+
+1591004032 source:c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\src\account.cpp
+	"Account.h"
+
+1591005219 source:c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\src\account_util.cpp
+	<iostream>
+	"Account_Util.h"
+
+1591004031 source:c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\src\checking_account.cpp
+	"Checking_Account.h"
+
+1591004031 source:c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\src\savings_account.cpp
+	"Savings_Account.h"
+
+1591004031 source:c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\src\trust_account.cpp
+	"Trust_Account.h"
+
+1591003146 c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\include\i_printable.h
+	<iostream>
+
+1591003146 source:c:\users\naqib\onedrive\documents\c++ program\polymorphism\accountclassusingpolymorphism\src\i_printable.cpp
+	"I_Printable.h"
+

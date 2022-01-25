@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590779631 source:c:\users\naqib\onedrive\documents\c++ program\redefiningbaseclassmethods\main.cpp
+	<iostream>
+	"Savings_account.h"
+
+1590778862 source:c:\users\naqib\onedrive\documents\c++ program\redefiningbaseclassmethods\src\savings_account.cpp
+	<iostream>
+	"Savings_Account.h"
+
+1590778862 c:\users\naqib\onedrive\documents\c++ program\redefiningbaseclassmethods\include\savings_account.h
+	"Account.h"
+
+1590778984 c:\users\naqib\onedrive\documents\c++ program\redefiningbaseclassmethods\include\account.h
+	<iostream>
+
+1590779106 source:c:\users\naqib\onedrive\documents\c++ program\redefiningbaseclassmethods\src\account.cpp
+	"Account.h"
+	<iostream>
+

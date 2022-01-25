@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590652469 source:c:\users\naqib\onedrive\documents\c++ program\mystring-operator-methods\src\mystring.cpp
+	<iostream>
+	<cstring>
+	"Mystring.h"
+
+1590652299 c:\users\naqib\onedrive\documents\c++ program\mystring-operator-methods\include\mystring.h
+
+1590652139 source:c:\users\naqib\onedrive\documents\c++ program\mystring-operator-methods\main.cpp
+	<iostream>
+	"Mystring.h"
+

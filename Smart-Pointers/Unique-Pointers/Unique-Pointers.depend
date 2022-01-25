@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1591031633 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\main.cpp
+	<iostream>
+	<memory>
+	<vector>
+	"Checking_Account.h"
+	"Trust_Account.h"
+	"Savings_Account.h"
+	"I_Printable.h"
+	"Account_Util.h"
+
+1591021146 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\src\account.cpp
+	"Account.h"
+
+1591021146 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\include\account.h
+	<iostream>
+	<string>
+	"I_Printable.h"
+
+1591021146 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\include\i_printable.h
+	<iostream>
+
+1591021146 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\src\account_util.cpp
+	<iostream>
+	"Account_Util.h"
+
+1591021146 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\include\account_util.h
+	<vector>
+	"Account.h"
+
+1591021305 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\src\checking_account.cpp
+	"Checking_Account.h"
+
+1591021305 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\include\checking_account.h
+	"Account.h"
+
+1591021146 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\src\savings_account.cpp
+	"Savings_Account.h"
+
+1591031763 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\include\savings_account.h
+	"Account.h"
+
+1591021146 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\src\trust_account.cpp
+	"Trust_Account.h"
+
+1591021146 c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\include\trust_account.h
+	"Savings_Account.h"
+
+1591023464 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\unique-pointers\src\i_printable.cpp
+	"I_Printable.h"
+

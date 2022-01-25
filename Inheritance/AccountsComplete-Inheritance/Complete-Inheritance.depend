@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1590851086 source:c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\main.cpp
+	<iostream>
+	<vector>
+	"Account_Util.h"
+
+1590850735 source:c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\src\checking_account.cpp
+	"Checking_Account.h"
+
+1590846648 c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\include\checking_account.h
+	"Account.h"
+
+1590839606 source:c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\src\account.cpp
+	"Account.h"
+
+1590822908 c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\include\account.h
+	<iostream>
+	<string>
+
+1590848324 source:c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\src\account_util.cpp
+	<iostream>
+	"Account_Util.h"
+
+1590846648 c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\include\account_util.h
+	<vector>
+	"Account.h"
+	"Savings_Account.h"
+	"Checking_Account.h"
+	"Trust_Account.h"
+
+1590848324 c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\include\savings_account.h
+	"Account.h"
+
+1590848324 source:c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\src\savings_account.cpp
+	"Savings_Account.h"
+
+1590850821 c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\include\trust_account.h
+	"Savings_Account.h"
+
+1590850784 source:c:\users\naqib\onedrive\documents\c++ program\complete-inheritance\src\trust_account.cpp
+	"Trust_Account.h"
+

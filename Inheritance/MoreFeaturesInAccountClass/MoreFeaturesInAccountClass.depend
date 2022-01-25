@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1590835045 source:c:\users\naqib\onedrive\documents\c++ program\morefeaturesinaccountclass\main.cpp
+	<iostream>
+	<vector>
+	"Savings_Account.h"
+	"Account_Util.h"
+
+1590833932 source:c:\users\naqib\onedrive\documents\c++ program\morefeaturesinaccountclass\src\savings_account.cpp
+	"Savings_Account.h"
+
+1590823476 c:\users\naqib\onedrive\documents\c++ program\morefeaturesinaccountclass\include\savings_account.h
+	"Account.h"
+
+1590822908 c:\users\naqib\onedrive\documents\c++ program\morefeaturesinaccountclass\include\account.h
+	<iostream>
+	<string>
+
+1590822908 source:c:\users\naqib\onedrive\documents\c++ program\morefeaturesinaccountclass\src\account.cpp
+	"Account.h"
+
+1590839606 c:\users\naqib\onedrive\documents\c++ program\morefeaturesinaccountclass\include\account_util.h
+	<vector>
+	"Account.h"
+	"Savings_Account.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591181089 source:c:\users\naqib\onedrive\documents\c++ program\smart-pointers\smart-pointers-in-action\main.cpp
+	<iostream>
+	<memory>
+	<vector>
+
